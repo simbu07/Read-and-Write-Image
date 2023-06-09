@@ -1,5 +1,5 @@
 ## Ex-1   READ AND WRITE AN IMAGE
-### Date: 15/03/2023
+
 ### AIM:
 To write a python program using OpenCV to do the following image manipulations.
 i) Read, display, and write an image.
